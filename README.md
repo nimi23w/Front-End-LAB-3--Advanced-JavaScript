@@ -1,1 +1,2 @@
-# Front-End-LAB-3--Advanced-JavaScript
+# Weather-Application
+Displays the current weather of the city
